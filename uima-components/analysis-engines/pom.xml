@@ -17,11 +17,21 @@
     <artifactId>analysis-engines</artifactId>
     <name>UIMA: Analysis Engines</name>
 
+    <repositories>
+        <repository>
+
+            <id>ProjectRepo</id>
+            <name>ProjectRepo</name>
+            <url>file://${project.basedir}/libs</url>
+        </repository>
+    </repositories>
+
     <dependencies>
         <dependency>
             <groupId>rockt</groupId>
             <artifactId>seth</artifactId>
-            <version>1.0-SNAPSHOT</version>
+            <version>1.3</version>
+
         </dependency>
         <dependency>
             <groupId>ca.bcgsc</groupId>

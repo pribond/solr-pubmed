@@ -9,7 +9,6 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>SETH</module>
         <module>analysis-engines</module>
         <module>cas-consumers</module>
         <module>uima-type-system</module>
