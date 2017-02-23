@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/apurdy/solr-pubmed.svg?branch=master)](https://travis-ci.org/apurdy/solr-pubmed)
+This project is unmaintained. 
 =========
 
 An [Apache Solr](http://lucene.apache.org/solr/) based tool for fetching, indexing and searching PubMed/MEDLINE records. 
